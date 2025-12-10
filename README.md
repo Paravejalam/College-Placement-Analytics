@@ -107,8 +107,8 @@ Interactive Visualizations
 
 📥 How to Run Locally
 1️⃣ Clone Repository
-git clone https://github.com/your-username/college-placement-prediction.git
-cd college-placement-prediction
+git clone https://github.com/Paravejalam/College-Placement-Analytics.git
+cd College-Placement-Analytics
 
 2️⃣ Install Requirements
 pip install -r requirements.txt
