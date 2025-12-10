@@ -1,0 +1,15 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore Power BI temporary files
+*.pbix#
+
+# Ignore CSV checkpoints
+*.csv~
+
+# Ignore system files
+.DS_Store
+Thumbs.db
